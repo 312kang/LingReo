@@ -9,7 +9,7 @@ LingReo 是一款利用人工智能技术，为旅游和文化领域提供智能
 
 ### 🏷️ 项目架构图
 <p align="center">
-    <img src="./image/架构图.png" alt="alt text" >
+    <img src="./image/LingReo.png" alt="alt text" >
 </p>
 
 ### 😊 主要功能
